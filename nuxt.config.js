@@ -21,7 +21,7 @@ module.exports = {
   ** Customize the progress bar color
   * To disable: loading: false
   */
-  loading: { color: "#3B8070" },
+  loading: false,
   /*
   ** Build configuration
   */

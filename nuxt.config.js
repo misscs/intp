@@ -16,11 +16,10 @@ module.exports = {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
   },
   modules: ["nuxtent"],
-    css: [
-    'tachyons'
-  ],
+  css: ["tachyons", "@/assets/css/columns.css"],
   /*
   ** Customize the progress bar color
+  * To disable: loading: false
   */
   loading: { color: "#3B8070" },
   /*

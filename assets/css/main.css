@@ -3,7 +3,9 @@
  * @todo Eventually, maybe get tachyons to load via this file
  */
 
-/*import tachyons*/
+@import '~./columns.css';
+
+ /*import tachyons*/
 
 /* @import '~tachyons/css/tachyons.min.css'; */
 

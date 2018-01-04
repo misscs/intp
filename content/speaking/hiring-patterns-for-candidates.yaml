@@ -1,0 +1,18 @@
+event: 
+event_url: 
+event_location_venue: 
+event_location: 
+date: 
+title: Hiring Patterns for Candidates
+type: 
+  - 
+    talk
+topics:
+  -
+    hiring
+  -
+    teams
+resources: 
+  -
+    type: slides
+    link: https://misscs.github.io/hiring-patterns/

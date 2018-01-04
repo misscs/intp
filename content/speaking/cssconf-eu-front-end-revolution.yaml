@@ -1,0 +1,17 @@
+event: CSSCONF EU 2015
+event_url: "http://2015.cssconf.eu/"
+date:
+title: "The Front-End Revolution"
+lead_image: "/assets/img/cs-speaking.jpg"
+lead_caption: "By Great Amazing Photographer"
+type:
+media_type:
+media_url: "https://www.youtube.com/watch?v=0gpraHLQ0L0"
+resources:
+  -
+    type: sketch
+    url: https://www.instagram.com/p/8FomJ3NmpM/
+  -
+    type: recap
+    url: http://www.xwiki.org/xwiki/bin/view/Blog/XWiki%20at%20CSSconf%20EU%202015
+    title: XWiki at CSSconf EU 2015

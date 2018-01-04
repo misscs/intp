@@ -1,0 +1,24 @@
+event: Design for Drupal 
+event_url:
+event_location_venue: MIT Stata Center
+event_location: Cambridge, MA
+date: June 26 2011 
+title: "Bringing sexy back to CSS: SASS/SCSS, LESS and Compass "
+type: 
+  - 
+    talk
+topics:
+  -
+    sass
+  -
+    compass
+  -
+    less
+  -
+    css preprocessors
+media_type: slides
+media_url: https://www.slideshare.net/itsmisscs/2011-d4dboston
+resources: 
+ -
+  type: notes 
+  link: http://data.agaric.com/bringing-sexy-back-css-sass-scss-compass

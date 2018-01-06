@@ -24,11 +24,11 @@
         </span>
       </p>
     </div>
-    <b role="presentation" class="bg-near-black"></b>
-    <b role="presentation" class="bg-near-black"></b>
-    <b role="presentation" class="bg-near-black"></b>
-    <b role="presentation" class="bg-near-black"></b>
-    <b role="presentation" class="bg-near-black"></b>
+    <b class="bg-near-black"></b>
+    <b class="bg-near-black"></b>
+    <b class="bg-near-black"></b>
+    <b class="bg-near-black"></b>
+    <b class="bg-near-black"></b>
   </article>
 </template>
 
@@ -36,7 +36,7 @@
 export default {
   async asyncData ({ app, route }) {
     return {
-      talk: await app.$content('/speaking').get(route.path)
+      talk: await app.$content('/engagements').get(route.path)
     }
   }
 }

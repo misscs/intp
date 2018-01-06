@@ -1,9 +1,9 @@
-event: BrooklynJS
+event: "BrooklynJS #17"
 event_url: 
 event_location_venue: Local 61
-event_location: Brookly, NY
-date: 
-title: "CSS Sucks"
+event_location: Brooklyn, NY
+date: 17 March 2015
+title: Cansei de Ser Styling
 type: 
   - 
     lightning talk

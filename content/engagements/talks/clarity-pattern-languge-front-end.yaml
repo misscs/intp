@@ -1,10 +1,10 @@
 event: Clarity Conf
 event_url: https://www.clarityconf.com/deconstructing-web-systems-or-a-pattern-language-for-web-development/
-date: Thursday, March 31st–Friday, April 1st, 2016
+date: April 1 2016
 title: "Deconstructing Web Systems Or A Pattern Language For Web Development"
-description: A pattern language is a method of describing good design practices within a field of expertise. This talk is an exercise to coalesce a pattern language for web development, in particular the discipline of front-end web design and development. It goes beyond the elements that comprise a design system or style guide focusing on the larger system of practices that contribute to delightful experiences for those that craft and code the experiences and interact with our web applications.
+description: "A pattern language is a method of describing good design practices within a field of expertise. This talk is an exercise to coalesce a pattern language for web development, in particular the discipline of front-end web design and development. It goes beyond the elements that comprise a design system or style guide focusing on the larger system of practices that contribute to delightful experiences for those that craft and code the experiences and interact with our web applications.
 
-This talk is meant to spark a conversation. It is by no means a definite list of all the patterns, that can only be accomplished collectively.
+This talk is meant to spark a conversation. It is by no means a definite list of all the patterns, that can only be accomplished collectively."
 type: talk
 photos:
   -

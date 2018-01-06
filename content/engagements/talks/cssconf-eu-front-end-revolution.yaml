@@ -1,6 +1,6 @@
 event: CSSCONF EU 2015
 event_url: "http://2015.cssconf.eu/"
-date:
+date: September 26 2015
 title: "The Front-End Revolution"
 lead_image: "/assets/img/cs-speaking.jpg"
 lead_caption: "By Great Amazing Photographer"
@@ -15,3 +15,7 @@ resources:
     type: recap
     url: http://www.xwiki.org/xwiki/bin/view/Blog/XWiki%20at%20CSSconf%20EU%202015
     title: XWiki at CSSconf EU 2015
+  -
+    type: speaker
+    url: http://2015.cssconf.eu/speaker/claudina-sarahe.html
+    title: Meet Our Speakers

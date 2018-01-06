@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "nuxt": "^1.0.0-rc11",
-    "nuxtent": "^1.2.2"
+    "nuxtent": "^1.2.1"
   },
   "devDependencies": {
     "@nuxtjs/axios": "^4.5.2",
@@ -27,6 +27,8 @@
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
     "tachyons": "^4.9.1"
   }
 }

@@ -10,13 +10,20 @@ module.exports = {
       }
     ],
     [
-      "speaking",
+      "engagements",
       {
-        page: "/speaking/_slug",
-        permalink: "/speaking/:slug",
+        page: "/engagements/_slug",
+        permalink: "/engagements/:slug",
         isPost: false,
         generate: ["get", "getAll"]
       }
     ]
-  ]
-};
+  ],
+
+  api: {
+    baseURL:
+      process.env.NODE_ENV === "production"
+        ? "http://stnetwork.surge.sh"
+        : "http://localhost:3000"
+  }
+}

@@ -1,16 +1,14 @@
-event: ATX Sass Meetup
+event: ATXSass Meetup
 event_url: 
 event_location_venue: 
 event_location: Austin, TX
-date: 
-title: 
+date: August 18 2014
+title: Innaguration!
 type: 
   - 
     meetup
   -
     talk
-  -
-    remote
 topics:
   -
     sass

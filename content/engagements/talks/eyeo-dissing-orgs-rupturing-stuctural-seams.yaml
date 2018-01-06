@@ -1,5 +1,7 @@
-event: Eyeo 2017
+event: Eyeo
 event_url: 
+event_location_venue: Gutherie Theature
+event_location: Minneapolis, MN
 date: 26 June 2017
 title: "Dissing organizations rupturing stuctural seams"
 type: 
@@ -10,7 +12,7 @@ type:
 resources:
   -
     type: video
-    url:
+    url: https://vimeo.com/233011504
 testimonials:
   -
     quote: Mic drop

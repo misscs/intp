@@ -1,7 +1,22 @@
-event: BrooklynJS/CSSConf Cross-over panel
-event_url: 
-date: 
-title: "Deconstructing Web Systems Or A Pattern Language For Web Development"
+event: BrooklynJS/CSSConf
+event_url: https://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/
+event_location_venue: Littlefield
+event_location: Brooklyn, NY
+date: June 18 2015
+title: "Cross-over panel"
+participants:
+  -
+    name: Armando
+    twitter:
+    role: panelist
+  -
+    name: Chris Coyier
+    twitter:
+    role: panelist
+  -
+    name: Jen Schiffer
+    twitter:
+    role: panelist
 description: 
 type: panel
 photos:

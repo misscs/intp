@@ -1,8 +1,11 @@
 ---
 name: Drupal Web Team Training
 description: Teaching Drupal to under privileged youth in partnership with MACILE
-date: Summer 2014
+timeline: Summer 2012
 location: Itabo, Dominican Repulic
 background: bg-dark-blue
-photos: /images/projects/content-panel-foto.jpg
+type: teaching
+photos: 
 ---
+
+Trained small group of MACILE students on basics of HTML and Drupal content management. The team was responsible for updating content and managing MACILE Drupal site (RIP).

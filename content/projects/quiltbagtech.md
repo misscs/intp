@@ -1,8 +1,12 @@
 ---
 name: QUILTBAGTECH++
-description: Grassworks queer in tech group local to NYC
+description: Grassroots queer in tech collective
 location: NYC
-dates: 2015-Present
-background: bg-orange
-photos: /images/projects/content-panel-foto.jpg
+timeline: 2015-Present
+role: Founding Member
+background: bg-light-blue
+photos: 
 ---
+
+A group of queers into tech came together to form a hyper local, inclusive, non-corporate group who share a passion for tech and snacks ++. 
+
